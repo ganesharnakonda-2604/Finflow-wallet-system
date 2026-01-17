@@ -155,14 +155,6 @@ All unit and concurrency tests executed successfully.
 - Rollback tests for failure scenarios
 - Concurrency test to prevent wallet overdraw
 
----
-
-## 📈 Future Enhancements
-- JWT-based authentication
-- Redis idempotency keys
-- Kafka event publishing
-- Microservices architecture
-- UPI / Bank gateway integration
 
 ---
 
